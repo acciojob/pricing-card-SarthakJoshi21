@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+.image{
+	padding:40px;
+	margin:40px;
+	border:1px solid black;
+}
+.price{
+	text-align:center;
+	padding:0px;
+	margin:0px;
+	font-weight:bold;
+	font-size:50px;
+}
+section{
+	background-color:lightgrey;
+}
+.p1{
+	text-align:center;
+	font-size:25px;
+}
+button{
+	background-color:orange;
+	color:white;
+	padding:10px 20px;
+	margin-top:20px;
+	
+}
